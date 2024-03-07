@@ -1,0 +1,22 @@
+{
+  "name": "http.js",
+  "version": "1.0.0",
+  "description": "Programa http",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarVhH/http.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Oscar Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarVhH/http/issues"
+  },
+  "homepage": "https://github.com/OscarVhH/http#readme"
+}
